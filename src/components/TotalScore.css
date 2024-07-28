@@ -1,0 +1,15 @@
+h1{
+    margin-top: 25px;
+    font-size: 100px;
+    line-height: 100px;
+    color: white;
+}
+p{
+    font-size: 24px;
+    font-weight: 500;
+    color: white;
+}
+.container{
+    max-width: 200px;
+    text-align: center;
+}
